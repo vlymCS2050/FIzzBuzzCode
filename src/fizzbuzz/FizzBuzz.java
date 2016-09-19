@@ -8,6 +8,7 @@ package fizzbuzz;
 /**
  *
  * @author Vicky Lym
+ * Testing GitHub process
  */
 public class FizzBuzz {
 
